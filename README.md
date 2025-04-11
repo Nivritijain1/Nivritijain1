@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nivritijain1
+- 👀 I’m interested in programming languages : c++,c,python,java
+- 🌱 I’m currently learning to explore large datasets and to generate insights
+- 💞️ I’m looking to collaborate on real world projects
+- 😄 Pronouns: she/her
